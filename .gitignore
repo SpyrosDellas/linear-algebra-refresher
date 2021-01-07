@@ -1,0 +1,5 @@
+# Ignore IPython checkpoints
+.ipynb_checkpoints/
+
+# Ignore PyCharm folders
+.idea/
